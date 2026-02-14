@@ -1,6 +1,6 @@
 # FACEBOOK-PC-CLONE
 PAID FACEBOOK PC CLONE
-WhatsApp : +8801959864816
+WhatsApp : 01774751662
 telegram : @Ariyan_Ahamed00
 
 (all command ⬇️)
@@ -27,7 +27,7 @@ pkg install git
 rm -rf FACEBOOK-PC-CLONE
 
 
-git clone https://github.com/ariyanahamed282/FACEBOOK-PC-CLONE.git
+git clone https://github.com/mdrubel662/cd-FACEBOOK-PC-CLONE.git
 
 
 cd FACEBOOK-PC-CLONE
